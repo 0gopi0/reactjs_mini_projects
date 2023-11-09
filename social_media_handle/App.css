@@ -1,0 +1,48 @@
+.circle_50_radius {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.flex {
+  display: flex;
+}
+.w-300 {
+  width: 300px;
+  display: flex;
+}
+.d1 {
+  border: 3px solid rgb(10, 176, 218);
+  border-radius: 50px;
+}
+.l-10 {
+  margin-left: 10px;
+}
+
+.t-10 {
+  margin-top: 10px;
+}
+.t-8 {
+  margin-top: 6px;
+}
+.p1 {
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container > div {
+  flex: 1;
+  margin-right: 10px;
+  margin-left: 15px;
+}
+.bm-10{
+    margin-bottom: 10px;
+}
+.container > div:last-child {
+  margin-right: 0; /* Remove margin for the last div */
+}
