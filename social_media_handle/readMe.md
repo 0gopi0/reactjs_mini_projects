@@ -4,4 +4,4 @@ here we have built a social media handle with
 ->4 symbols out of 4 like symbol is interactive 
 if you click on like symbol if turns red
 
-click on this link to see preview (https://github.com/0gopi0/reactjs_mini_projects/assets/67084912/f31c8732-7e86-4875-9826-6ffb85a142d0)
+![social_handle](https://github.com/0gopi0/reactjs_mini_projects/assets/67084912/97f383a4-e3d2-4c8e-a42e-2e3ab987ffb3)
