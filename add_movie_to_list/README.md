@@ -2,4 +2,4 @@
 
 
 Introduction
-This is a small React mini project that allows users to search for a movie by entering its name in a search box. Users can add the searched movie to a list, and the added movies will be displayed below the search box.
+this is a small react project here is a text area saying type movie name here after typing click on add button that will add the name you have typed to the existing movie list below in real time
